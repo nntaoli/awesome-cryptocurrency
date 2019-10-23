@@ -1,7 +1,8 @@
 # awesome-cryptocurrency
 1.开源交易所API接口实现项目
-  * [GoEx] https://github.com/nntaoli-project/GoEx/
-  * [fcoin-go] https://github.com/sumorf/fcoin-go 
+  * [GoEx 全网交易所API接口对接综合项目框架] https://github.com/nntaoli-project/GoEx/
+  * [fcoin API 接口实现] https://github.com/sumorf/fcoin-go 
+  * [币安API SDK] https://github.com/adshao/go-binance
   
 2.开源策略实现项目列表  
   * [币安三角套利策略] https://github.com/lukekhamilton/triangular_arbitrage_binance_go
