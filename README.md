@@ -2,6 +2,7 @@
 1.开源交易所API接口实现项目
   * [GoEx 全网交易所API接口对接综合项目框架] https://github.com/nntaoli-project/GoEx/
   * [bitfinex API官方Go API SDK] https://github.com/bitfinexcom/bitfinex-api-go
+  * [数字货币交易所API的Java实现] https://github.com/knowm/XChange
   * [fcoin API 接口实现] https://github.com/sumorf/fcoin-go 
   * [币安API SDK] https://github.com/adshao/go-binance
   
