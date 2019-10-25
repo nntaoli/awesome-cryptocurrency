@@ -12,6 +12,7 @@
   
 3.开源策略框架项目列表  
   * [vnpy] https://github.com/vnpy/vnpy
+  * [Go实现基于事件模型的回测框架] https://github.com/dirkolbrich/gobacktest
 
 4.加密货币，区块链技术项目列表  
   * [bitcoin] https://github.com/bitcoin/bitcoin
