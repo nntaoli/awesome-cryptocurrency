@@ -16,5 +16,7 @@
   * [py异步事件驱动策略框架] https://github.com/TheNextQuant/thenextquant
 
 4.加密货币，区块链技术项目列表  
-  * [bitcoin] https://github.com/bitcoin/bitcoin
+  * [比特币bitcoin] https://github.com/bitcoin/bitcoin
+  * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
+  * [莱特币litecoin] https://github.com/litecoin-project/litecoin
   * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
