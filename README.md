@@ -9,6 +9,7 @@
 2.开源策略实现项目列表  
   * [币安三角套利策略] https://github.com/lukekhamilton/triangular_arbitrage_binance_go
   * [数字货币-三角套利机器人] https://github.com/zlq4863947/triangular-arbitrage
+  * [bitmex简单做市商策略] https://github.com/BitMEX/sample-market-maker
   
 3.开源策略框架项目列表  
   * [vnpy] https://github.com/vnpy/vnpy
