@@ -21,3 +21,5 @@
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [莱特币litecoin] https://github.com/litecoin-project/litecoin
   * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
+5.实用的小工具
+  * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
