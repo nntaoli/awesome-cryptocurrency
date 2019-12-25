@@ -24,3 +24,6 @@
   
 5.实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
+  
+6.数字货币开源交易所
+  * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
