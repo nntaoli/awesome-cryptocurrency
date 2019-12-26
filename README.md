@@ -24,6 +24,7 @@
   
 5.实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
+  * [下载币安k线历史数据的一个小程序] https://github.com/nntaoli-project/download_binance_kline_history
   
 6.数字货币开源交易所
   * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
