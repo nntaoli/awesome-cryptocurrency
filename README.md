@@ -21,6 +21,7 @@
   * [比特币bitcoin] https://github.com/bitcoin/bitcoin
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [莱特币litecoin] https://github.com/litecoin-project/litecoin
+  * [以太坊 ETH] https://github.com/ethereum/go-ethereum
   
 5.实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
