@@ -10,6 +10,7 @@
   * [币安三角套利策略] https://github.com/lukekhamilton/triangular_arbitrage_binance_go
   * [数字货币-三角套利机器人] https://github.com/zlq4863947/triangular-arbitrage
   * [bitmex简单做市商策略] https://github.com/BitMEX/sample-market-maker
+  * [现货搬砖对冲策略] https://github.com/maxme/bitcoin-arbitrage
   
 3.开源策略框架项目列表  
   * [vnpy] https://github.com/vnpy/vnpy
@@ -20,11 +21,11 @@
   * [比特币bitcoin] https://github.com/bitcoin/bitcoin
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [莱特币litecoin] https://github.com/litecoin-project/litecoin
-  * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
   
 5.实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
   * [下载币安k线历史数据的一个小程序] https://github.com/nntaoli-project/download_binance_kline_history
+  * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
   
 6.数字货币开源交易所
   * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
