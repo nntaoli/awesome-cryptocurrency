@@ -16,6 +16,7 @@
   * [vnpy] https://github.com/vnpy/vnpy
   * [Go实现基于事件模型的回测框架] https://github.com/dirkolbrich/gobacktest
   * [py异步事件驱动策略框架] https://github.com/TheNextQuant/thenextquant
+  * [基于GoEx的行情中心] https://github.com/goex-top/market_center
 
 4.加密货币，区块链技术项目列表  
   * [比特币bitcoin] https://github.com/bitcoin/bitcoin
