@@ -1,20 +1,10 @@
 # awesome-cryptocurrency
 1.开源交易所API接口实现项目
-  * [GoEx 全网交易所API接口对接综合项目框架] https://github.com/nntaoli-project/GoEx/
-  * [bitfinex API官方Go API SDK] https://github.com/bitfinexcom/bitfinex-api-go
-  * [数字货币交易所API的 Java实现] https://github.com/knowm/XChange
-  * [数字货币交易所API的 JavaScript / Python / PHP实现] https://github.com/ccxt/ccxt
-  * [FCoin API 接口实现] https://github.com/sumorf/fcoin-go 
-  * [币安API SDK] https://github.com/adshao/go-binance
-  * [币安(Binance)官方Java API SDK] https://github.com/binance-exchange/binance-java-api
-  * [币安(Binance)官方PHP API SDK] https://github.com/binance-exchange/php-binance-api
-  * [库币(KuCoin)官方Go API SDK] https://github.com/Kucoin/kucoin-go-sdk
-  * [库币(KuCoin)官方PHP API SDK] https://github.com/Kucoin/kucoin-php-sdk
-  * [库币(KuCoin)官方Java API SDK] https://github.com/Kucoin/kucoin-java-sdk
-  * [库币(KuCoin)官方Level3 API SDK] https://github.com/Kucoin/kucoin-level3-sdk
+  * [数字货币交易所API Golang实现] https://github.com/nntaoli-project/GoEx/
+  * [数字货币交易所API Java实现] https://github.com/knowm/XChange
+  * [数字货币交易所API JavaScript / Python / PHP实现] https://github.com/ccxt/ccxt
 
 2.开源策略实现项目列表  
-
   * [币安三角套利策略] https://github.com/lukekhamilton/triangular_arbitrage_binance_go
   * [数字货币-三角套利机器人] https://github.com/zlq4863947/triangular-arbitrage
   * [bitmex简单做市商策略] https://github.com/BitMEX/sample-market-maker
