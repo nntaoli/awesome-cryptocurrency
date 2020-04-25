@@ -13,6 +13,7 @@
 
 3.开源策略框架项目列表  
   * [vnpy] https://github.com/vnpy/vnpy
+  * [crex 支持tick级别回测] https://github.com/coinrust/crex
   * [Go实现基于事件模型的回测框架] https://github.com/dirkolbrich/gobacktest
   * [py异步事件驱动策略框架] https://github.com/TheNextQuant/thenextquant
   * [基于GoEx的行情中心] https://github.com/goex-top/market_center
