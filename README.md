@@ -12,6 +12,7 @@
   * [量化策略] https://github.com/fmzquant/strategies
 
 3.开源策略框架项目列表  
+  * [goex_backtest] 基于goex tick级，基于fetch驱动，而非event驱动的数字货币回测系统
   * [vnpy] https://github.com/vnpy/vnpy
   * [crex 支持tick级别回测] https://github.com/coinrust/crex
   * [Go实现基于事件模型的回测框架] https://github.com/dirkolbrich/gobacktest
