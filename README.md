@@ -21,7 +21,7 @@
 
 4.加密货币，区块链技术项目列表  
   * [比特币BitCoin] https://github.com/bitcoin/bitcoin
-  * [比特币java全节点实现] https://github.com/bitcoinj/bitcoin
+  * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
   * [ XRP] https://github.com/ripple/rippled
   * [ BCH] https://github.com/Bitcoin-ABC/bitcoin-abc
