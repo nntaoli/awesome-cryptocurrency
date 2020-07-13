@@ -1,6 +1,6 @@
 # awesome-cryptocurrency
 1.开源交易所API接口实现项目
-  * [数字货币交易所API Golang实现] https://github.com/nntaoli-project/GoEx/
+  * [数字货币交易所API Golang实现] https://github.com/nntaoli-project/goex
   * [数字货币交易所API Java实现] https://github.com/knowm/XChange
   * [数字货币交易所API JavaScript / Python / PHP实现] https://github.com/ccxt/ccxt
 
