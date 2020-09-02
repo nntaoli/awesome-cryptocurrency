@@ -38,3 +38,6 @@
 
 6.数字货币开源交易所
   * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
+  
+7.Defi 去中心化金融智能合约
+  * [Curve] https://github.com/curvefi/curve-contract
