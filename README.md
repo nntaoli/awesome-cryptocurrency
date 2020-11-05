@@ -21,6 +21,7 @@
 
 4.加密货币，区块链技术项目列表  
   * [比特币官方钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
+  * [比特币HD钱包bip39] https://github.com/spesmilo/electrum
   * [比特币BitCoin] https://github.com/bitcoin/bitcoin
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
