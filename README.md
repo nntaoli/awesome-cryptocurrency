@@ -1,4 +1,3 @@
-# awesome-cryptocurrency
 1.开源交易所API接口实现项目
   * [数字货币交易所API Golang实现] https://github.com/nntaoli-project/goex
   * [数字货币交易所API Java实现] https://github.com/knowm/XChange
@@ -20,8 +19,6 @@
   * [基于GoEx的行情中心] https://github.com/goex-top/market_center
 
 4.加密货币，区块链技术项目列表  
-  * [比特币官方钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
-  * [比特币HD钱包bip39] https://github.com/spesmilo/electrum
   * [比特币BitCoin] https://github.com/bitcoin/bitcoin
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
@@ -33,7 +30,12 @@
   * [波场TRX] https://github.com/tronprotocol/java-tron
   * [ATOM]https://github.com/cosmos/cosmos-sdk
 
-5.实用的小工具
+5. 数字货币开源钱包
+  * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
+  * [比特币HD钱包bip39] https://github.com/spesmilo/electrum
+  * [比特币HD钱包] https://github.com/bither/bither-android (可以拿来搭建冷钱包，强烈推荐)
+
+6.实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
   * [下载币安k线历史数据的一个小程序] https://github.com/nntaoli-project/download_binance_kline_history
   * [一个独立bitcoin 私钥公钥地址生成器] https://github.com/vsergeev/btckeygenie
