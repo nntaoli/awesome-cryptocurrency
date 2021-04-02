@@ -30,6 +30,7 @@
   * [EOS] https://github.com/EOSIO/eos
   * [波场TRX] https://github.com/tronprotocol/java-tron
   * [ATOM]https://github.com/cosmos/cosmos-sdk
+  * [viabtc开源矿池] https://github.com/viabtc/viabtc_mining_server
 
 5. 数字货币开源钱包
   * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
