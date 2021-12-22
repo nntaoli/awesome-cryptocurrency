@@ -44,6 +44,7 @@
 
 6.数字货币开源交易所
   * [数字货币现货交易所] https://github.com/gitbitex/gitbitex-spot
+  * [viabtc 交易所服务器端开源代码] https://github.com/viabtc/viabtc_exchange_server （c语言实现）
   
 7.Defi 去中心化金融智能合约
   * [Curve] https://github.com/curvefi/curve-contract
