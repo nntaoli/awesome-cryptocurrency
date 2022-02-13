@@ -12,8 +12,8 @@
 3.开源策略框架项目列表  
   * [goex_backtest 基于goex tick级，基于fetch驱动，而非event驱动的数字货币回测系统] https://github.com/nntaoli-project/goex_backtest
   * [golang写的一个加密货币程序交易框架] https://github.com/aleibovici/cryptopump
+  * [golang加密货币策略交易框架] https://github.com/rodrigo-brito/ninjabot
   * [vnpy] https://github.com/vnpy/vnpy
-  * [crex 支持tick级别回测] https://github.com/coinrust/crex
   * [Go实现基于事件模型的回测框架] https://github.com/dirkolbrich/gobacktest
   * [py异步事件驱动策略框架] https://github.com/TheNextQuant/thenextquant
   * [基于GoEx的行情中心] https://github.com/goex-top/market_center
