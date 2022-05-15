@@ -20,8 +20,9 @@
   * [渔夫量化系统(具有web管理端)] https://github.com/yufuquant/yufuquant
 
 4.加密货币，区块链技术项目列表  
-  * [比特币BitCoin] https://github.com/bitcoin/bitcoin
+  * [比特币Bitcoin] https://github.com/bitcoin/bitcoin
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
+  * [比特币Golang全节点实现] https://github.com/btcsuite/btcd
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
   * [ XRP] https://github.com/ripple/rippled
   * [ BCH] https://github.com/Bitcoin-ABC/bitcoin-abc
