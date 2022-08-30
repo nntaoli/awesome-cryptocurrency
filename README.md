@@ -3,6 +3,7 @@
   * [数字货币交易所API Java实现] https://github.com/knowm/XChange
   * [数字货币交易所API JavaScript / Python / PHP实现] https://github.com/ccxt/ccxt
   * [dydx.exchange RUST API] https://github.com/junta/dydx-v3-rust 
+  * [dydx.exchange golang API] https://github.com/fardream/go-dydx
 
 2.开源策略实现项目列表  
   * [数字货币-三角套利机器人] https://github.com/zlq4863947/triangular-arbitrage
