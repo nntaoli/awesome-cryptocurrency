@@ -10,6 +10,7 @@
   * [bitmex简单做市商策略] https://github.com/BitMEX/sample-market-maker
   * [现货搬砖对冲策略] https://github.com/maxme/bitcoin-arbitrage
   * [币安网格策略] https://github.com/51bitquant/binance_grid_trader
+  * [高频] https://github.com/alexey-ernest/go-hft-orderbook
 
 3.开源策略框架项目列表  
   * [goex_backtest 基于goex tick级，基于fetch驱动，而非event驱动的数字货币回测系统] https://github.com/nntaoli-project/goex_backtest
