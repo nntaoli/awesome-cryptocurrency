@@ -29,6 +29,7 @@
   * [比特币java全节点实现] https://github.com/bitcoinj/bitcoinj
   * [比特币Golang全节点实现] https://github.com/btcsuite/btcd
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
+  * [Uniswap V3 智能合约] https://github.com/Uniswap/v3-core
   * [ XRP] https://github.com/ripple/rippled
   * [ BCH] https://github.com/Bitcoin-ABC/bitcoin-abc
   * [ BSV] https://github.com/bitcoin-sv/bitcoin-sv
