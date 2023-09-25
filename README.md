@@ -10,7 +10,6 @@
   * [币安三角套利策略] https://github.com/bmino/binance-triangle-arbitrage
   * [bitmex简单做市商策略] https://github.com/BitMEX/sample-market-maker
   * [现货搬砖对冲策略] https://github.com/maxme/bitcoin-arbitrage
-  * [币安网格策略] https://github.com/51bitquant/binance_grid_trader
   * [高频] https://github.com/alexey-ernest/go-hft-orderbook
   * [bitfinex放贷机器人] https://github.com/BitBotFactory/MikaLendingBot
 
