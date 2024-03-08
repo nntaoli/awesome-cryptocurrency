@@ -30,6 +30,7 @@
   * [比特币Golang全节点实现] https://github.com/btcsuite/btcd
   * [Rust Bitcoin] https://github.com/rust-bitcoin
   * [以太坊 ETH] https://github.com/ethereum/go-ethereum
+  * [ Storj ] https://github.com/storj/storj
   * [Uniswap V3 智能合约] https://github.com/Uniswap/v3-core
   * [Uniswap V4 智能合约，去中心化交易所] https://github.com/Uniswap/v4-core
   * [ XRP] https://github.com/ripple/rippled
