@@ -1,6 +1,7 @@
 1. 开源交易所API接口实现项目
   * [加密货币交易所API Golang实现] https://github.com/nntaoli-project/goex
   * [加密货币交易所API Java实现] https://github.com/knowm/XChange
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
   * [加密货币交易所API JavaScript / Python / PHP实现] https://github.com/ccxt/ccxt
   * [dydx.exchange RUST API] https://github.com/junta/dydx-v3-rust 
   * [dydx.exchange golang API] https://github.com/fardream/go-dydx
