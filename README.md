@@ -61,3 +61,6 @@
 8. Defi 去中心化金融智能合约
   * [Curve] https://github.com/curvefi/curve-contract
   * [aave] https://github.com/aave/aave-protocol
+
+
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram/Discord when an SPL token crosses a price threshold, no API key needed.
