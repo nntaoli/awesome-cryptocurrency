@@ -61,3 +61,5 @@
 8. Defi 去中心化金融智能合约
   * [Curve] https://github.com/curvefi/curve-contract
   * [aave] https://github.com/aave/aave-protocol
+
+- [Deep Blue Alpha](https://deepbluealpha.io) — Real-time Ethereum whale tracking platform: 20,000+ wallets, live DEX swaps, sentiment index, free API.
