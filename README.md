@@ -25,6 +25,7 @@
   * [基于GoEx的行情中心] https://github.com/goex-top/market_center
   * [渔夫量化系统(具有web管理端)] https://github.com/yufuquant/yufuquant
   * [Self-hosted crypto trading bot (automated high frequency market making) written in C++]  https://github.com/ctubio/Krypto-trading-bot
+  * [Python 回测与实盘交易框架，通过 CCXT 支持多家加密货币交易所] https://github.com/Lumiwealth/lumibot
 
 4. 加密货币，区块链技术项目列表  
   * [比特币Bitcoin] https://github.com/bitcoin/bitcoin
