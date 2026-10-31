@@ -44,6 +44,7 @@
   * [波场TRX] https://github.com/tronprotocol/java-tron
   * [ATOM]https://github.com/cosmos/cosmos-sdk
   * [viabtc开源矿池] https://github.com/viabtc/viabtc_mining_server
+  * [RustChain] https://github.com/Scottcjn/Rustchain - Proof-of-Antiquity区块链，老旧硬件收益更高
 
 5. 加密货币开源钱包
   * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
