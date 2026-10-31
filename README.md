@@ -62,3 +62,6 @@
 8. Defi 去中心化金融智能合约
   * [Curve] https://github.com/curvefi/curve-contract
   * [aave] https://github.com/aave/aave-protocol
+
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain with AI agent integration. Mine on vintage hardware for bonus rewards!
