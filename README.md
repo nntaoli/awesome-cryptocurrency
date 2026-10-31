@@ -49,6 +49,7 @@
   * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
   * [比特币HD钱包bip39] https://github.com/spesmilo/electrum
   * [比特币HD钱包] https://github.com/bither/bither-android (可以拿来搭建冷钱包，强烈推荐)
+  * [BitTool Signer iOS：MIT 许可的离线二维码签名器，支持 Bitcoin PSBT 及多链签名] https://github.com/bitbill/bittool-signer-ios
 
 6. 实用的小工具
   * [在MacBook Touch Bar显示加密货币价格] https://github.com/T-Pham/CoinPriceBar
