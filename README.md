@@ -46,6 +46,7 @@
   * [viabtc开源矿池] https://github.com/viabtc/viabtc_mining_server
 
 5. 加密货币开源钱包
+  * [Oath Wallet：使用 Swift/SwiftUI 开发的 iPhone/iPad 多链钱包，MIT 许可] https://github.com/devdasx/oath-wallet
   * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
   * [比特币HD钱包bip39] https://github.com/spesmilo/electrum
   * [比特币HD钱包] https://github.com/bither/bither-android (可以拿来搭建冷钱包，强烈推荐)
