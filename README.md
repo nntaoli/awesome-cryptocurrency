@@ -6,6 +6,7 @@
   * [dydx.exchange golang API] https://github.com/fardream/go-dydx
   * [加密货币交易所API c++] https://github.com/f0cii/moxt-cpp
   * [加密货币交易所API  c#] https://github.com/JKorf/CryptoExchange.Net
+  * [加密货币交易所API JavaScript / TypeScript（Binance、Bybit、OKX、Gate、Bitget、KuCoin、Coinbase、Kraken、Hyperliquid）] https://siebly.io/sdk
 
 2. 开源策略实现项目列表  
   * [数字货币-三角套利机器人] https://github.com/zlq4863947/triangular-arbitrage
